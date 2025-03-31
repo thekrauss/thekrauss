@@ -48,5 +48,16 @@
 
 ---
 
+## 📈 Mes stats GitHub
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=kraussvesset&show_icons=true&theme=github_dark&hide_title=false)
+
+![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=kraussvesset&layout=compact&theme=github_dark)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/kraussvesset/kraussvesset/blob/output/github-contribution-grid-snake.svg)
+
+
 > ✉️ Contact : thekrauss31@gmail.com  
 > 📍  France — Ouvert aux opportunités en développement backend et DevOps
