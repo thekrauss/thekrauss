@@ -1,6 +1,6 @@
-# 👋 Bonjour, je suis Krauss VESSET
+# 👋 Hello world!
 
-🎓 Développeur Full Stack en formation à Zone01 Rouen Normandie  
+🎓 Développeur Full Stack   
 🧠 Passionné par les architectures modernes (Golang, Rust, Python, Java)  
 🚀 Spécialisé en microservices, CI/CD et cloud computing
 
@@ -8,8 +8,7 @@
 
 ## 🧰 Compétences techniques
 
-- **Langages** : Golang, Rust, Python, Java, JavaScript  
-- **Mobile** : Flutter  
+- **Langages** : Golang, Rust, Python, Java, JavaScript   
 - **API & Communication** : REST, gRPC, GraphQL  
 - **Cloud & DevOps** : Google Cloud Platform, AWS, Docker, Kubernetes, GitHub Actions  
 - **Bases de données** : PostgreSQL, SQLite  
