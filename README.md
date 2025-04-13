@@ -19,11 +19,8 @@
 ## 🌍 Langues & Soft Skills
 
 - 🇫🇷 Français : langue maternelle  
-- 🇬🇧 Anglais : B1/B2  
+- 🇬🇧 Anglais : Bon niveau (documentation,communication écrite GitHub/Slack)  
 - 🤝 Esprit d’équipe | 🔍 Curiosité technique | ⚡ Apprentissage rapide | 🧠 Autonomie
-
-
----
 
 ---
 
