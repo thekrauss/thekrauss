@@ -1,7 +1,7 @@
 # 👋 Hello world!
 
 🎓 Développeur Full Stack   
-🧠 Passionné par les architectures modernes (Golang, Rust, Python, Java)  
+🧠 Passionné par les architectures modernes 
 🚀 Spécialisé en microservices, CI/CD et cloud computing
 
 ---
