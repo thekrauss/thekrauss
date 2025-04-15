@@ -1,36 +1,36 @@
 # 👋 Hello world!
 
-🎓 Développeur Full Stack   
-🧠 Passionné par les architectures modernes 
-🚀 Spécialisé en microservices, CI/CD et cloud computing
+🎓 Full Stack Developer  
+🧠 Passionate about modern architectures  
+🚀 Specialized in microservices, CI/CD, and cloud computing
 
 ---
 
-## 🧰 Compétences techniques
+## 🧰 Technical Skills
 
-- **Langages** : Golang, Rust, Python, Java, JavaScript   
-- **API & Communication** : REST, gRPC, GraphQL  
-- **Cloud & DevOps** : Google Cloud Platform, AWS, Docker, Kubernetes, GitHub Actions  
-- **Bases de données** : PostgreSQL, SQLite  
-- **Outils** : Redis, RabbitMQ, Terraform, Prometheus, WebSocket
-
----
-
-## 🌍 Langues & Soft Skills
-
-- 🇫🇷 Français : langue maternelle  
-- 🇬🇧 Anglais : Bon niveau (documentation,communication écrite GitHub/Slack)  
-- 🤝 Esprit d’équipe | 🔍 Curiosité technique | ⚡ Apprentissage rapide | 🧠 Autonomie
+- **Languages**: Golang, Rust, Python, Java, JavaScript  
+- **API & Communication**: REST, gRPC, GraphQL  
+- **Cloud & DevOps**: Google Cloud Platform, AWS, Docker, Kubernetes, GitHub Actions  
+- **Databases**: PostgreSQL, SQLite  
+- **Tools**: Redis, RabbitMQ, Terraform, Prometheus, WebSocket
 
 ---
 
-## 🎯 Centres d’intérêt
+## 🌍 Languages & Soft Skills
 
-🎧 Musique – 🏋️ Sport – 👨‍💻 Veille technologique
+- 🇫🇷 French: Native language  
+- 🇬🇧 English: Good level (documentation, written communication on GitHub/Slack)  
+- 🤝 Team spirit | 🔍 Technical curiosity | ⚡ Fast learner | 🧠 Autonomy
 
 ---
 
-## 🚀 Badges de technologies
+## 🎯 Interests
+
+🎧 Music – 🏋️ Sports – 👨‍💻 Tech watch
+
+---
+
+## 🚀 Tech Badges
 
 ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat&logo=go)
 ![Rust](https://img.shields.io/badge/-Rust-informational?style=flat&logo=rust)
@@ -45,6 +45,5 @@
 
 ---
 
-
-> ✉️ Contact : thekrauss31@gmail.com  
-> 📍  France — Ouvert aux opportunités en développement backend et DevOps
+> ✉️ Contact: thekrauss31@gmail.com  
+> 📍 France — Open to backend development and DevOps opportunities
