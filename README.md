@@ -6,30 +6,6 @@
 
 ---
 
-## 🧰 Technical Skills
-
-- **Languages**: Golang, Rust, Python, Java, JavaScript  
-- **API & Communication**: REST, gRPC, GraphQL  
-- **Cloud & DevOps**: Google Cloud Platform, AWS, Docker, Kubernetes, GitHub Actions  
-- **Databases**: PostgreSQL, SQLite  
-- **Tools**: Redis, RabbitMQ, Terraform, Prometheus, WebSocket
-
----
-
-## 🌍 Languages & Soft Skills
-
-- 🇫🇷 French: Native language  
-- 🇬🇧 English: Good level (documentation, written communication on GitHub/Slack)  
-- 🤝 Team spirit | 🔍 Technical curiosity | ⚡ Fast learner | 🧠 Autonomy
-
----
-
-## 🎯 Interests
-
-🎧 Music – 🏋️ Sports – 👨‍💻 Tech watch
-
----
-
 ## 🚀 Tech Badges
 <div align="center">
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/></code>
@@ -53,8 +29,21 @@
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="rest" title="rest"/></code>
 </div>
 
+---
 
+## 🌍 Languages & Soft Skills
 
+- 🇫🇷 French: Native language  
+- 🇬🇧 English: Good level (documentation, written communication on GitHub/Slack)  
+- 🤝 Team spirit | 🔍 Technical curiosity | ⚡ Fast learner | 🧠 Autonomy
+
+---
+
+## 🎯 Interests
+
+🎧 Music – 🏋️ Sports – 👨‍💻 Tech watch
+
+---
 
 ---
 
