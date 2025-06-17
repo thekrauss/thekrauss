@@ -2,7 +2,7 @@
 
 🎓 Full Stack Developer  
 🧠 Passionate about modern architectures  
-🚀 Specialized in microservices, CI/CD, and cloud computing
+
 
 ---
 
