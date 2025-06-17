@@ -21,7 +21,6 @@
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="postgresql" title="postgresql"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="redis" title="redis"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="python" title="python"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="java" title="java"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="react" title="react"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="react" title="react"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" alt="rabbitmq" title="rabbitmq"/></code>
@@ -37,12 +36,6 @@
 - 🇫🇷 French: Native language  
 - 🇬🇧 English: Good level (documentation, written communication on GitHub/Slack)  
 - 🤝 Team spirit | 🔍 Technical curiosity | ⚡ Fast learner | 🧠 Autonomy
-
----
-
-## 🎯 Interests
-
-🎧 Music – 🏋️ Sports – 👨‍💻 Tech watch
 
 ---
 
