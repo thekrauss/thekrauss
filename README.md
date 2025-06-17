@@ -31,15 +31,5 @@
 
 ---
 
-## 🌍 Languages & Soft Skills
-
-- 🇫🇷 French: Native language  
-- 🇬🇧 English: Good level (documentation, written communication on GitHub/Slack)  
-- 🤝 Team spirit | 🔍 Technical curiosity | ⚡ Fast learner | 🧠 Autonomy
-
----
-
----
-
 > ✉️ Contact: thekrauss31@gmail.com  
 > 📍 France — Open to backend development and DevOps opportunities
