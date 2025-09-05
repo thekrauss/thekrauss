@@ -1,6 +1,6 @@
 # 👋 Hello world!
 
-🎓 Full Stack Developer  
+🎓 Developer Golang - Network 
 🧠 Passionate about modern architectures  
 
 
