@@ -28,5 +28,4 @@ Passionate about modern architectures
 
 ---
 
-> ✉️ Contact: thekrauss31@gmail.com  
-> 📍 France — Open to backend development and DevOps opportunities
+Contact: thekrauss31@gmail.com  
