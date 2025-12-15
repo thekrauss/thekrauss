@@ -1,12 +1,10 @@
-# 👋 Hello world!
-
-🎓 Developer Golang - Network 
-🧠 Passionate about modern architectures  
+Developer Golang - Network 
+Passionate about modern architectures  
 
 
 ---
 
-## 🚀 Tech Badges
+## Tech Badges
 <div align="center">
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Golang" title="Golang"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="python" title="python"/></code>
